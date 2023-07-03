@@ -14,13 +14,13 @@
     <h4>Загаловок 4 уровня</h4>
     <h5>Загаловок 5 уровня</h5>
     <h6>Загаловок 6 уровня</h6>
-    <p class='paragraph-1'>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+    <p class='paragraph-1'> Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
     <p class='paragraph-2'>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
     <p class='paragraph-3'>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
     <div>
         <p class='paragraph-4'>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
         <p>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-    </div>
+
 
 
 
