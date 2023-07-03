@@ -1,1 +1,38 @@
-wqeqw
+<!DOCTYPE html>
+<meta data-n-head="ssr" charset="utf-8">
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Доска</title>
+</head>
+<body>
+    <h1>Загаловок 1 уровня</h1>
+    <h2>Загаловок 2 уровня</h2>
+    <h3>Загаловок 3 уровня</h3>
+    <h4>Загаловок 4 уровня</h4>
+    <h5>Загаловок 5 уровня</h5>
+    <h6>Загаловок 6 уровня</h6>
+    <p>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+    <p>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+    <p>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+    <div>
+        <p>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <p>Sed ut perspiciatis, consectetur adipiscing elit, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+    </div>
+
+
+
+    <ol>
+        <li>
+            Первый пункт
+        </li>
+        <li>
+            Второй пункт
+        </li>
+        <li>
+            Третий пункт
+        </li>
+
+    <img src="https://i.ytimg.com/vi/hyb3fEUj0ds/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgWCgiMA8=&rs=AOn4CLBgl_g2aC3iLAq-qzDWM1E6PxxZWg">
+</html>
